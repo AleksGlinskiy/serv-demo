@@ -3,58 +3,58 @@
     { 
       "id": 1, 
       "title": "Post 1", 
-      "image": {
+      "image": [
          "full": "https://images.unsplash.com/photo-1461988320302-91bde64fc8e4?ixid=2yJhcHBfaWQiOjEyMDd9&fm=jpg&q=80",
          "thumb": "https://images.unsplash.com/photo-1461988320302-91bde64fc8e4?ixid=2yJhcHBfaWQiOjEyMDd9&fm=jpg&w=200&fit=max"
-      }
+      ]
     },
     { 
       "id": 2, 
       "title": "Post 2", 
-      "image": {
+      "image": [
          "full": "https://images.unsplash.com/photo-1547532182-bf296f6be875?ixid=2yJhcHBfaWQiOjEyMDd9&fm=jpg&q=80",
          "thumb": "https://images.unsplash.com/photo-1547532182-bf296f6be875?ixid=2yJhcHBfaWQiOjEyMDd9&fm=jpg&w=200&fit=max"
-      }
+      ]
     },
     { 
       "id": 3, 
       "title": "Post 3", 
-      "image": {
+      "image": [
          "full": "https://images.unsplash.com/photo-1548041347-390744c58da6?ixid=2yJhcHBfaWQiOjEyMDd9&fm=jpg&q=80",
          "thumb": "https://images.unsplash.com/photo-1548041347-390744c58da6?ixid=2yJhcHBfaWQiOjEyMDd9&fm=jpg&w=200&fit=max"
-      }
+      ]
     },
     { 
       "id": 4, 
       "title": "Post 4", 
-      "image": {
+      "image": [
          "full": "https://images.unsplash.com/photo-1548073497-d2a89e40e090?ixid=2yJhcHBfaWQiOjEyMDd9&fm=jpg&q=80",
          "thumb": "https://images.unsplash.com/photo-1548073497-d2a89e40e090?ixid=2yJhcHBfaWQiOjEyMDd9&fm=jpg&w=200&fit=max"
-      }
+      ]
     },
     { 
       "id": 5, 
       "title": "Post 5", 
-      "image": {
+      "image": [
          "full": "https://images.unsplash.com/photo-1547979854-5333256878de?ixid=2yJhcHBfaWQiOjEyMDd9&fm=jpg&q=80",
          "thumb": "https://images.unsplash.com/photo-1547979854-5333256878de?ixid=2yJhcHBfaWQiOjEyMDd9&fm=jpg&w=200&fit=max"
-      }
+      ]
     },
     { 
       "id": 6, 
       "title": "Post 6", 
-      "image": {
+      "image": [
          "full": "https://images.unsplash.com/photo-1548049983-5be60c9bc004?ixid=2yJhcHBfaWQiOjEyMDd9&fm=jpg&q=80",
          "thumb": "https://images.unsplash.com/photo-1548049983-5be60c9bc004?ixid=2yJhcHBfaWQiOjEyMDd9&fm=jpg&w=200&fit=max"
-      }
+      ]
     },
     { 
       "id": 7, 
       "title": "Post 7", 
-      "image": {
+      "image": [
          "full": "https://images.unsplash.com/photo-1547994770-e5d8509b114d?ixid=2yJhcHBfaWQiOjEyMDd9&fm=jpg&q=80",
          "thumb": "https://images.unsplash.com/photo-1547994770-e5d8509b114d?ixid=2yJhcHBfaWQiOjEyMDd9&fm=jpg&w=200&fit=max"
-      }
+      ]
     }
   ],
   "comments": [
